@@ -1,5 +1,8 @@
 # Linux-Logo-Collor-Degrade
 
+I created IOS icons for 65 Linux distros
+Use them as you wish, and hope you like it.
+
 Download ➤ [256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chris1111/Linux-Logo-Collor-Degrade/tree/main/256)
 
 Download ➤ [512](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chris1111/Linux-Logo-Collor-Degrade/tree/main/512)
